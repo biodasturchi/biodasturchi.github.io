@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: demirkoo
+description: demirkoo's GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker

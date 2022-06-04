@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ### 1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish
 
 **Kirish**

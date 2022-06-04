@@ -2,7 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+**Bioinformatika**
+
+*I. Bioinformatik ma'lumot bazalari*
+
+- [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./01-bmb/ncbi.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 

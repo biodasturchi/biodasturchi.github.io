@@ -7,17 +7,17 @@ layout: default
 
 *I. Bioinformatik ma'lumot bazalari*
 
-- [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./_sections/01-bmb/ncbi.htm)
-- [1.2 NCBI bo'yicha ketma-ketlikni tahlil qilish](./_sections/01-bmb/ncbi-sec.html)
-- [1.3 PubMed Central & ENTREZ](./_sections//01-bmb/pubmed-entrez.html)
-- [1.4 GenBank: NCBI bo'yicha nukleotid ma'lumotlar bazasi](./_sections/01-bmb/genbank.html)
-- [1.5 FASTA vs GenBank](./_sections/01-bmb/fasta-genbank.html)
-- [1.6 Gen ma'lumotlar bazasi: keng qamrovli gen ma'lumotlar bazasi](./_sections/01-bmb/gmb.html)
-- [1.7 NCBI Genomes & NCBI Assembly](./_sections/01-bmb/genomes-assembly.html)
+- [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./01-bmb/ncbi.html)
+- [1.2 NCBI bo'yicha ketma-ketlikni tahlil qilish](./01-bmb/ncbi-sec.html)
+- [1.3 PubMed Central & ENTREZ](./01-bmb/pubmed-entrez.html)
+- [1.4 GenBank: NCBI bo'yicha nukleotid ma'lumotlar bazasi](./01-bmb/genbank.html)
+- [1.5 FASTA vs GenBank](./01-bmb/fasta-genbank.html)
+- [1.6 Gen ma'lumotlar bazasi: keng qamrovli gen ma'lumotlar bazasi](./01-bmb/gmb.html)
+- [1.7 NCBI Genomes & NCBI Assembly](./01-bmb/genomes-assembly.html)
 
 *II. Bioinformatik fayl formatlari*
-- [2.1 GenBank (Sequence Annotation Format)](./_sections/02-bff/genbank.html)
-- [2.2 FASTA (Sequence Format)](./_sections/02-bff/fasta.html)
+- [2.1 GenBank (Sequence Annotation Format)](./02-bff/genbank.html)
+- [2.2 FASTA (Sequence Format)](./02-bff/fasta.html)
 
 
 

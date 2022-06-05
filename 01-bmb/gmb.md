@@ -37,4 +37,4 @@ Ushbu videoda biz Gen ma'lumotlar bazasidan foydalanishni tasvirlab berdik. Biz 
 
 NCBI ning Gen ma'lumotlar bazasi qanday maqsadda ishlab chiqilgan va berilgan GeneID: 15194 orqali *huntington* genini tahlil qiling.
 
-[Orqaga](../../)
+[Orqaga](../)

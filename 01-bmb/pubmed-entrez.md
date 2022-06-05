@@ -33,4 +33,4 @@ Ushbu videoda biz PubMed veb-saytini ko'rib chiqdik va undan qanday qilib tahlil
 
 PubMed Entrezdan nimasi bilan farq qiladi, ikkalasida bir xil so'rovlarni qidirib, uni tasavvur qiling.
 
-[Orqaga](../../)
+[Orqaga](../)

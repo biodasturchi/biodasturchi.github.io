@@ -33,4 +33,4 @@ NCBI - bu butun dunyo tadqiqotchilari tomonidan to'plangan turli xil ma'lumotlar
 
 *Manba* [linki](https://www.biocode.org.uk/wp-content/uploads/2021/07/An-Introduction-to-National-Center-for-Biotechnology.docx-1.pdf)
 
-[Orqaga](../../)
+[Orqaga](../)

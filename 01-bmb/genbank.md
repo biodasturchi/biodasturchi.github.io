@@ -31,4 +31,4 @@ Ushbu videoda biz GenBank ma'lumotlar bazasi va uning pastki ma'lumotlar bazasi 
 
 GenBank ma'lumotlar bazasi NCBI-dagi barcha ketma-ketlik ma'lumotlar bazalarini o'z ichiga oladi. Shunday qilib, NCBIga boring va GenBank formatida BRCA2 nukleotidlar ketma-ketligini qidiring va uni tahlil qiling.
 
-[Orqaga](../../)
+[Orqaga](../)

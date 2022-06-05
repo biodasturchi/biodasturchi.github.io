@@ -64,4 +64,4 @@ FASTA and extensions of FASTA. We have used the sequence of mRNA of
 **Homo sapiens** Lactase (LCT), you can also retrieve the sequence of your
 requirement.
 
-[Back](../../)
+[Back](../)

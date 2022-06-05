@@ -80,4 +80,4 @@ Annotation or feature section and Sequence section. We have taken the
 example of Homo sapiens Lactase. You can choose the sequence that
 you may require.
 
-[Back](../../)
+[Back](../)

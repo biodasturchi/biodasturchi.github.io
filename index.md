@@ -3,14 +3,17 @@ layout: default
 ---
 
 
-**Bioinformatika**
+### **Bioinformatika**
 
 *I. Bioinformatik ma'lumot bazalari*
 
 - [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./01-bmb/ncbi.html)
-
-
-
+- [1.2 NCBI bo'yicha ketma-ketlikni tahlil qilish](./01-bmb/ncbi-sec.html)
+- [1.3 PubMed Central & ENTREZ](./01-bmb/pubmed-entrez.html)
+- [1.4 GenBank: NCBI bo'yicha nukleotid ma'lumotlar bazasi](./01-bmb/genbank.html)
+- [1.5 FASTA vs GenBank](./01-bmb/fasta-genbank.html)
+- [1.6 Gen ma'lumotlar bazasi: keng qamrovli gen ma'lumotlar bazasi](./01-bmb/gmb.html)
+- [1.7 NCBI Genomes & NCBI Assembly](./01-bmb/genomes-assembly.html)
 
 
 

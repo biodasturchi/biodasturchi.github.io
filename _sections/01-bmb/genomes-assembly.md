@@ -113,4 +113,4 @@ In order to have a better understanding of the main topic, you should get yourse
 
 In this video tutorial of NCBI, we came to know about the two sub-databases of NCBI to retrieve and analyze the genomes of an organism. We got to know how to retrieve and analyze an entire genome of an organism using the “Genomes” database of NCBI and also came to know about the FTP format to download the genomic information from RefSeq or GenBank databases. And from the “Assembly” database of NCBI, we got to know the procedure to download and retrieve the fully sequenced genomes provided by NCBI and other integrated databases.
 
-[Back](../)
+[Back](../../)

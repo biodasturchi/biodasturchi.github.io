@@ -17,7 +17,7 @@ layout: default
 
 *II. Bioinformatik fayl formatlari*
 - [2.1 GenBank (Sequence Annotation Format)](./_sections/02-bff/genbank.html)
-- [2.2 FASTA (Sequence Format)](./_sections/02-bff/)
+- [2.2 FASTA (Sequence Format)](./_sections/02-bff/fasta.html)
 
 
 

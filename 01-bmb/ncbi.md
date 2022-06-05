@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ### 1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish
 
 **Kirish**
@@ -32,4 +31,4 @@ NCBI - bu butun dunyo tadqiqotchilari tomonidan to'plangan turli xil ma'lumotlar
 *NCBI ga o'ting va HTT ni barcha ma'lumotlar bazalarida qidiring va natijani tahlil qiling.*
     
 
-**Manba** [linki](https://www.biocode.org.uk/wp-content/uploads/2021/07/An-Introduction-to-National-Center-for-Biotechnology.docx-1.pdf)
+*Manba* [linki](https://www.biocode.org.uk/wp-content/uploads/2021/07/An-Introduction-to-National-Center-for-Biotechnology.docx-1.pdf)

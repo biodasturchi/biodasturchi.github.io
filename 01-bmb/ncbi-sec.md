@@ -31,3 +31,5 @@ Ushbu videoda biz Homo sapiens LCT genining mRNK ketma-ketligi bo'yicha ketma-ke
 NCBI da HTT genining ketma-ket tahlilini o'tkazing va unga bog'langan ma'lumotlar to'plamini taqdim eting.
     
 *Manba* [linki](https://www.biocode.org.uk/wp-content/uploads/2021/07/Sequence-analysis-on-NCBI.docx-1.pdf)
+
+[Orqaga](./)

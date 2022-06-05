@@ -15,7 +15,8 @@ layout: default
 - [1.6 Gen ma'lumotlar bazasi: keng qamrovli gen ma'lumotlar bazasi](./01-bmb/gmb.html)
 - [1.7 NCBI Genomes & NCBI Assembly](./01-bmb/genomes-assembly.html)
 
-
+*II. Bioinformatik fayl formatlari*
+- [2.1 GenBank (Sequence Annotation Format)](./02-bff/genbank.html)
 
 
 

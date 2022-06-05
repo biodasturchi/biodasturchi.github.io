@@ -57,4 +57,4 @@ Ushbu videoda biz FASTA formati va GenBank formati o'rtasidagi farqlarni muhokam
 
 FASTA va GenBank Format o'rtasidagi asosiy farqlar qanday?
 
-[Orqaga](./)
+[Orqaga](../)

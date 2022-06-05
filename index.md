@@ -7,7 +7,7 @@ layout: default
 
 *I. Bioinformatik ma'lumot bazalari*
 
-- [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./_sections/01-bmb/ncbi.html)
+- [1.1 Milliy Biotexnologiya Axborot Markaziga (NCBI) kirish](./_sections/01-bmb/ncbi.htm)
 - [1.2 NCBI bo'yicha ketma-ketlikni tahlil qilish](./_sections/01-bmb/ncbi-sec.html)
 - [1.3 PubMed Central & ENTREZ](./_sections//01-bmb/pubmed-entrez.html)
 - [1.4 GenBank: NCBI bo'yicha nukleotid ma'lumotlar bazasi](./_sections/01-bmb/genbank.html)
@@ -17,7 +17,7 @@ layout: default
 
 *II. Bioinformatik fayl formatlari*
 - [2.1 GenBank (Sequence Annotation Format)](./_sections/02-bff/genbank.html)
-- [2.2 FASTA (Sequence Format)](./_sections/02-bff/)
+- [2.2 FASTA (Sequence Format)](./_sections/02-bff/fasta.html)
 
 
 
